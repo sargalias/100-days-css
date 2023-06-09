@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@loadable/component": "5.5.0",
-    "gatsby": "2.7.1",
+    "gatsby": "4.25.7",
     "gatsby-plugin-react-helmet": "3.0.4",
     "gatsby-plugin-sass": "2.0.11",
     "gatsby-plugin-sass-resources": "2.0.0",
